@@ -1,0 +1,7 @@
+.card {
+    @apply flex flex-col p-5 w-full h-full relative cursor-pointer hover:shadow-md hover:transition-all
+}
+/*.authors {*/
+/*    @apply border text-xs max-h-[30px] overflow-hidden duration-700 transition-all ease-linear absolute bottom-0 left-0 right-0 text-center bg-white*/
+/*}*/
+
